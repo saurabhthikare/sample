@@ -1,0 +1,3 @@
+ls -a
+date
+echo "hello welcome to cloudblitz"
